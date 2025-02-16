@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Flask specific files
+instance/
+*.sqlite3
+
+# Environment files
+.env
+
+# General OS and IDE specific files
+.DS_Store
